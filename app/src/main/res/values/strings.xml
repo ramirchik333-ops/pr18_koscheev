@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Дневник погоды</string>
+    <string name="login_hint">Введите логин</string>
+    <string name="name_hint">Введите ваше имя</string>
+    <string name="btn_login">Войти</string>
+    <string name="error_empty_field">Поле не может быть пустым</string>
+    <string name="welcome_title">Дневник погоды</string>
+    <string name="btn_add_record">Добавить запись</string>
+    <string name="btn_view_records">Посмотреть записи</string>
+    <string name="btn_logout">Выйти из аккаунта</string>
+    <string name="hint_date">Дата (напр. 29.09.2026)</string>
+    <string name="hint_temp">Температура (напр. +15°C)</string>
+    <string name="hint_condition">Состояние (Солнечно, Дождь...)</string>
+    <string name="hint_notes">Заметки</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="title_records">История погоды</string>
+    <string name="empty_list">Записей пока нет</string>
+</resources>
